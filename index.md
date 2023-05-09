@@ -16,6 +16,6 @@ My GitHub [page](http://github.com/Ndanis2901).
 
     Lab 10, part 2 was a fascinating project because I was able to create a program that store every county's name and population into a 2D vector. When the user enters the county index, my program will return the accurate county population.  It was excellent practice utilizing the program to resolve problems in the real world.
 
-* Lab 12 
+* Lab 9
 
     Lab 9 part 1 was one of my favorite because because I always want to construct some program to read word from a file. I was able to write a program in this project that can read some dictionary files and store each word as a vector. 
